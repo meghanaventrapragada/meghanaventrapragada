@@ -61,7 +61,7 @@
 | 🌊 [Real-Time Streaming Pipeline](#) | Real-time event processing with Kafka + Spark Streaming | Kafka, Spark, AWS |
 | 🧹 [Data Quality Framework](#) | Automated data validation and quality checks on pipelines | Python, SQL, AWS Glue |
 
-> 🔗 *Links will be updated as projects are published!*
+
 
 ---
 
