@@ -75,21 +75,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghana-ventrapragada&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana-ventrapragada&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana-ventrapragada&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-> 🔁 *Replace `meghana-ventrapragada` with your actual GitHub username!*
-
----
-
 ## 🤝 Let's Connect!
 
 I'm actively looking for **Data Engineering, Cloud Data, or ETL roles** — let's talk!
@@ -122,17 +107,3 @@ I'm actively looking for **Data Engineering, Cloud Data, or ETL roles** — let'
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meghana-ventrapragada&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-<!--
-**meghanaventrapragada/meghanaventrapragada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
